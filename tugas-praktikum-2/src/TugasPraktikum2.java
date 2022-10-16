@@ -1,9 +1,10 @@
-import java.util.Scanner;
-
 /*
 Nama : Hisyam Fausta
 NIM : 20210801191
  */
+
+import java.util.Scanner;
+
 public class TugasPraktikum2 {
 
     public static void main(String[] args) {
